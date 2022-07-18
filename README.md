@@ -18,3 +18,7 @@ IMDB CringeMeter Chrome Extension
 
 This project was bootstrapped with [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
 
+
+## Sample ScreenShot
+
+![](/sample.png)
