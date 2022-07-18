@@ -1,6 +1,6 @@
 # <img src="public/icons/icon_48.png" width="45" align="left"> Imdb Cringemeter
 
-IMDB CringeMeter Chrome Extension ![](/public/icons/icon_128.png)
+IMDB CringeMeter Chrome Extension
 
 ## Features
 
