@@ -1,0 +1,1 @@
+{"version":3,"file":"cringemeter.css","mappings":";;;AAAA;IACI,UAAU;AACd;;AAEA;IACI,YAAY;AAChB","sources":["webpack://imdb-cringemeter/./src/cringemeter.css"],"sourcesContent":[".cringe-result {\r\n    color: red; \r\n}\r\n\r\n.safe-result {\r\n    color: green;\r\n}\r\n"],"names":[],"sourceRoot":""}
