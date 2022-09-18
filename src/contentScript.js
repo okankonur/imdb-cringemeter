@@ -36,6 +36,8 @@ console.log("Sending movie details to cringemdb...");
 
 let movieQueryText = movieTitle.toLowerCase().replaceAll(' ', '-') + '-' + movieYear;
 
+console.log("Query string is: " + movieQueryText);
+
 chrome.runtime.sendMessage({ movieQueryText: movieQueryText }, function(response) {
     console.log(response.data);
     IMDB_Scraper.appendMovieTitle(response.data);

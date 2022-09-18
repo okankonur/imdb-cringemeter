@@ -23,7 +23,7 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 
 
         let cringeResultSelector = $("body > section > div.inner.movie-listing > div > div.movie-info > h2.certification");
-        let cringeResult = cringeResultSelector[0].children[1].data;
+        let cringeResult = cringeResultSelector.text();
 
         console.log("Cringe Result: " + cringeResult);
 

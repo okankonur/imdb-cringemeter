@@ -2,6 +2,9 @@
 
 IMDB CringeMeter Chrome Extension
 
+> **Warning**
+> Imdb dom element selectors change regularly. So this extension probably will be useless unless a better scraping method is implemented.
+
 ## Features
 
 - Retrieves information from cringemdb.com and displays it on the imdb movie page.
